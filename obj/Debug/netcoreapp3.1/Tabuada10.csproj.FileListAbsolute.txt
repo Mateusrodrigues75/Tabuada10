@@ -1,0 +1,13 @@
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\bin\Debug\netcoreapp3.1\Tabuada10.exe
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\bin\Debug\netcoreapp3.1\Tabuada10.deps.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\bin\Debug\netcoreapp3.1\Tabuada10.runtimeconfig.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\bin\Debug\netcoreapp3.1\Tabuada10.runtimeconfig.dev.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\bin\Debug\netcoreapp3.1\Tabuada10.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\bin\Debug\netcoreapp3.1\Tabuada10.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\obj\Debug\netcoreapp3.1\Tabuada10.csprojAssemblyReference.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\obj\Debug\netcoreapp3.1\Tabuada10.AssemblyInfoInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\obj\Debug\netcoreapp3.1\Tabuada10.AssemblyInfo.cs
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\obj\Debug\netcoreapp3.1\Tabuada10.csproj.CoreCompileInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\obj\Debug\netcoreapp3.1\Tabuada10.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\obj\Debug\netcoreapp3.1\Tabuada10.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\Tabuada10\obj\Debug\netcoreapp3.1\Tabuada10.genruntimeconfig.cache
